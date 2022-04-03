@@ -1,14 +1,19 @@
-LogiWaze: Waze but for FH logi
+#### LogiWaze:  
+Waze but for FH logi  
 https://github.com/NoUDerp/logiwaze
 
-Foxhole Logistics Calculator: Calculator for figuring out raw materials required for a given set of items
+#### Foxhole Logistics Calculator:  
+Calculator for figuring out raw materials required for a given set of items  
 https://foxholelogi.com/
 
-Arty Spotter: Trig-based artillery calculator
+#### Arty Spotter:  
+Trig-based artillery calculator  
 https://github.com/arubinofaux/artyspotter
 
-FHArty: Map-based artillery calculator
+#### FHArty:  
+Map-based artillery calculator  
 https://fharty.com/
 
-Foxhole Artillery Calculator App: In-game artillery calculator with overlay
+#### Foxhole Artillery Calculator App:  
+In-game artillery calculator with overlay  
 https://github.com/XeniacDev/FoxholeArtillery-Windows
