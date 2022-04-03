@@ -25,3 +25,7 @@ https://foxholestats.com/
 #### Foxhole Map:  
 Static Foxhole Game Map  
 https://foxholeglobal.com/map/
+
+#### Sigil HQ:
+Foxhole Stats Tracker
+https://sigilhq.com/stats/
