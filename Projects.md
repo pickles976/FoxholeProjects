@@ -17,3 +17,11 @@ https://fharty.com/
 #### Foxhole Artillery Calculator App:  
 In-game artillery calculator with overlay  
 https://github.com/XeniacDev/FoxholeArtillery-Windows
+
+#### Foxhole Stats:  
+Live Warmap  
+https://foxholestats.com/
+
+#### Foxhole Map:  
+Static Foxhole Game Map  
+https://foxholeglobal.com/map/
