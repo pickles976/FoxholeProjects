@@ -14,6 +14,10 @@ https://github.com/arubinofaux/artyspotter
 Map-based artillery calculator  
 https://fharty.com/
 
+### ArtilleryCalc
+Map-based Artillery Calculator (with wind calculations and visualization!)
+https://albert-b-b.github.io/ArtilleryCalc/
+
 #### Foxhole Artillery Calculator App:  
 In-game artillery calculator with overlay  
 https://github.com/XeniacDev/FoxholeArtillery-Windows
