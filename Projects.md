@@ -33,3 +33,7 @@ https://foxholeglobal.com/map/
 #### Sigil HQ:
 Foxhole Stats Tracker
 https://sigilhq.com/stats/
+
+#### FoxholeTool:  
+An in-game overlay providing several QOL tools.  
+https://github.com/mmaenz/FoxholeTool
