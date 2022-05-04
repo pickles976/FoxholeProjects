@@ -37,3 +37,19 @@ https://sigilhq.com/stats/
 #### FoxholeTool:  
 An in-game overlay providing several QOL tools.  
 https://github.com/mmaenz/FoxholeTool
+
+#### Stockpiler:  
+In-game tool for transcribing the contents of stockpiles to an Excel sheet.  
+https://github.com/tehruttiger/Stockpiler/tree/master
+
+#### Storeman-Bot:  
+Companion tool linking Stockpiler to Discord:  
+https://github.com/Tkaixiang/Storeman-Bot  
+
+#### Foxhole Item API:  
+Comprehensive API for querying info about in-game items:  
+https://github.com/joshuaHallee/foxhole-item-api
+
+#### Foxhole Screenparse:  
+Standalone tool/website for extracting stockpile contents from screenshots:  
+https://github.com/pogobanane/foxhole-screenparse
