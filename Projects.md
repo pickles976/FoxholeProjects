@@ -6,6 +6,9 @@ https://github.com/NoUDerp/logiwaze
 Calculator for figuring out raw materials required for a given set of items  
 https://foxholelogi.com/
 
+#### Another Foxhole Logistics Calculator:  
+https://nicolasbarlogis.github.io/foxhole-logi-calculator/
+
 #### Arty Spotter:  
 Trig-based artillery calculator  
 https://github.com/arubinofaux/artyspotter
@@ -53,3 +56,25 @@ https://github.com/joshuaHallee/foxhole-item-api
 #### Foxhole Screenparse:  
 Standalone tool/website for extracting stockpile contents from screenshots:  
 https://github.com/pogobanane/foxhole-screenparse
+
+#### Foxhole Political Compass:  
+How much of a nationalist are you?  
+https://tfmvulpus.github.io/political-compass/#41
+
+#### Foxhole Global HQ:  
+Massive standalone application for coordinating, planning, just about everything:  
+https://github.com/muloneweb/FHGHQ
+V2:  
+https://github.com/Kovachks/foxhole-logi
+
+#### Holenews:  
+Web-based wiki for Foxhole news:  
+https://github.com/Owez/holenews
+
+#### Activity Log Scanner (WIP):  
+Used for collecting and storing data from the activity logs:  
+https://github.com/Stephen001/activity-log-scanner
+
+#### Foxhole Sheets:  
+Screenshot to CSV parser:  
+https://github.com/miles-igd/foxhole-sheets
