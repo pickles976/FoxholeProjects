@@ -12,6 +12,10 @@ https://github.com/NoUDerp/logiwaze
 Planning and tools for Sigil HQ  
 https://sigilhq.com/stats/
 
+#### Facility Calculator:  
+Calculate the costs of a facility  
+https://mrbazlow.github.io/CalcSite/  
+
 #### S.H.A.R.T.
 Website with authentication for calculating tech drop rate  
 https://scroop.misfitmaid.com/
@@ -91,6 +95,10 @@ https://github.com/miles-igd/foxhole-sheets
 Massive standalone application for coordinating, planning, just about everything   
 V2:  
 https://github.com/Kovachks/foxhole-logi
+
+#### Foxhole Production Calculator:  
+A CLI application for calculating the optimal number of buildings required to output x number of resources. (Written in Rust <3)  
+[Foxhole Production Calculator](https://github.com/bahildebrand/foxhole-production-calculator/tree/master/foxhole-production-calculator-cli)
 
 #### Holenews:  
 Web-based wiki for Foxhole news    
