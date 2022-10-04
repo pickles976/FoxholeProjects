@@ -95,6 +95,10 @@ https://github.com/miles-igd/foxhole-sheets
 
 # Standalone Local Tools:
 
+#### Foxhole Inventory Report:  
+Machine learning screen parser  
+https://github.com/GICodeWarrior/fir  
+
 #### Foxhole Global HQ:  
 Massive standalone application for coordinating, planning, just about everything   
 V2:  
