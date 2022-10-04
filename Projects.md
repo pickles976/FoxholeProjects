@@ -28,6 +28,10 @@ https://www.foxholebounties.com
 Calculator for figuring out raw materials required for a given set of items    
 https://foxholelogi.com/
 
+#### Foxhole Efficiency:  
+Calculate resource requirements for facilities.  
+https://www.foxhole-efficiency.com/  
+
 #### Another Foxhole Logistics Calculator:  
 https://nicolasbarlogis.github.io/foxhole-logi-calculator/
 
