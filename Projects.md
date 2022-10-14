@@ -16,6 +16,10 @@ https://sigilhq.com/stats/
 Calculate the costs of a facility  
 https://mrbazlow.github.io/CalcSite/  
 
+#### Facility Planning:
+Website for planning facilities  
+https://foxholeplanner.com/
+
 #### S.H.A.R.T.
 Website with authentication for calculating tech drop rate  
 https://scroop.misfitmaid.com/
