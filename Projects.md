@@ -43,6 +43,10 @@ https://nicolasbarlogis.github.io/foxhole-logi-calculator/
 Standalone tool/website for extracting stockpile contents from screenshots  
 https://github.com/pogobanane/foxhole-screenparse
 
+#### Foxhole Inventory Report:
+Processes stockpile screenshots to produce graphical and spreadsheet reports.
+https://fir.gicode.net/
+
 #### Foxhole Political Compass:  
 How much of a nationalist are you?  
 https://tfmvulpus.github.io/political-compass/#41
