@@ -36,6 +36,10 @@ https://foxholelogi.com/
 Calculate resource requirements for facilities.  
 https://www.foxhole-efficiency.com/  
 
+#### Foxhole Stuff:  
+Useful Foxhole tools for various purposes.  
+https://www.foxholestuff.com/
+
 #### Another Foxhole Logistics Calculator:  
 https://nicolasbarlogis.github.io/foxhole-logi-calculator/
 
