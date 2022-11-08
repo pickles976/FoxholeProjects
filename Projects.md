@@ -12,6 +12,10 @@ https://github.com/NoUDerp/logiwaze
 Planning and tools for Sigil HQ  
 https://sigilhq.com/stats/
 
+#### Foxhole 3D Map:  
+3D map for Foxhole  
+https://foxholemap3d.app/
+
 #### Facility Calculator:  
 Calculate the costs of a facility  
 https://mrbazlow.github.io/CalcSite/  
