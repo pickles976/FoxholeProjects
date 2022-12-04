@@ -128,6 +128,10 @@ A CLI application for calculating the optimal number of buildings required to ou
 Web-based wiki for Foxhole news    
 https://github.com/Owez/holenews
 
+#### WarBoard:  
+IRL map of Farranac Coast with real-time in-game stats.  
+https://github.com/Uberibsen/WarBoard  
+
 # Unmaintained Projects:
 
 #### Foxhole Global HQ:  
