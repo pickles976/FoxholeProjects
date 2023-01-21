@@ -28,10 +28,6 @@ https://foxholeplanner.com/
 Website with authentication for calculating tech drop rate  
 https://scroop.misfitmaid.com/
 
-#### Foxhole Bounties:
-Website for posting tasks in Foxhole  
-https://www.foxholebounties.com
-
 #### Foxhole Logistics Calculator:  
 Calculator for figuring out raw materials required for a given set of items    
 https://foxholelogi.com/
@@ -133,6 +129,10 @@ IRL map of Farranac Coast with real-time in-game stats.
 https://github.com/Uberibsen/WarBoard  
 
 # Unmaintained Projects:
+
+#### Foxhole Bounties:
+Website for posting tasks in Foxhole  
+https://www.foxholebounties.com
 
 #### Foxhole Global HQ:  
 Massive standalone application for coordinating, planning, just about everything    
