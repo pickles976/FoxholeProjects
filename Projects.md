@@ -55,6 +55,14 @@ https://fir.gicode.net/
 How much of a nationalist are you?  
 https://tfmvulpus.github.io/political-compass/#41
 
+#### Shareable Foxhole Logistics Calculator (FoxholeHQ)
+Efficiently plan and share your Foxhole factory and mass production queues with others using this simple calculator.  
+https://foxholehq.net/factory
+
+#### Shareable Stockpile Map (FoxholeHQ)
+A visual map of Foxhole to securely store stockpile names & codes to make sharing it with your friends, clans, coalitions easier!  
+https://foxholehq.net/stockpile
+
 # Artillery Calculators
 
 #### Arty Spotter:  
