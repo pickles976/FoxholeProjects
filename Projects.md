@@ -113,6 +113,10 @@ https://github.com/joshuaHallee/foxhole-item-api
 Screenshot to CSV parser    
 https://github.com/miles-igd/foxhole-sheets
 
+#### Foxhole UMAP Textures Extractor:
+Extract all umap textures tiles as PNG
+https://github.com/Opa-/foxhole-umap-textures-extractor
+
 # Standalone Local Tools:
 
 #### Foxhole Inventory Report:  
