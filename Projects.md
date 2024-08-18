@@ -97,6 +97,16 @@ https://github.com/Tkaixiang/Storeman-Bot
 
 # API and Dev Tools
 
+### Wrappers of the War API:
+Official Wiki of API
+https://clapfoot.github.io/warapi
+
+Wrappers: 
+[Python](https://github.com/Opa-/foxhole-warapi-python-client), 
+[Rust](https://github.com/bahildebrand/foxhole-api),
+[JS](https://github.com/JusteLoneWolf/Foxhole-API-Wrapper),
+[C#](https://github.com/Yoticc/FoxHoleWebAPI)
+
 #### Fellowship of the War API:
 API-fied maps, assets, and tech tree info useful to developers      
 https://github.com/the-fellowship-of-the-warapi
