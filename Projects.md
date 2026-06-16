@@ -67,6 +67,10 @@ https://foxholehq.net/stockpile
 Foxhole tools such as Logistic Calculator, Interactive Map with filtering and private regiment markers, Foxhole 3D Model Viewer, and Chrome/Firefox Live War Extension!
 https://foxholehq.com/
 
+#### FoxholeHub:
+Live war stats, warmap, and a Foxhole content hub
+https://www.foxholehub.com
+
 # Artillery Calculators
 
 #### Arty Spotter:  
